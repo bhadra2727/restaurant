@@ -33,11 +33,11 @@
   "categories": [
     {
       "id": 1,
-      "size": "Refreshment"
+      "title": "Refreshment"
     },
     {
       "id": 2,
-      "size": "FastFood"
+      "title": "FastFood"
     }
   ]
 }
