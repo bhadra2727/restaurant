@@ -1,31 +1,40 @@
 {
-  "posts": [
+  "tables": [
     {
       "id": 1,
-      "title": "Post 1"
+      "size": "4"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "size": "2"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "size": "10"
     }
   ],
-  "comments": [
+  "products": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Burger",
+      "price": "100",
+      "category":"2"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "title": "tea",
+      "price": "20",
+      "category":"1"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "categories": [
+    {
+      "id": 1,
+      "size": "Refreshment"
+    },
+    {
+      "id": 2,
+      "size": "FastFood"
+    }
+  ]
 }
