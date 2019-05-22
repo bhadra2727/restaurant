@@ -3,17 +3,17 @@
     {
       "id": 1,
       "size": "4",
-      "status":"a"
+      "status":"Available"
     },
     {
       "id": 2,
       "size": "2",
-      "status":"n"
+      "status":"Not Available"
     },
     {
       "id": 3,
       "size": "10",
-      "status":"r"
+      "status":"Reserved"
     }
   ],
   "products": [
